@@ -25,8 +25,38 @@
             max-width: 400px;
             width: 90%;
             border: 2px solid #ff69b4;
+            position: relative; /* Required for the circular photo positioning */
+            margin-top: 50px;
         }
-        h2 { color: #800080; margin-bottom: 20px; }
+
+        /* Circular Photo Styles */
+        .profile-pic {
+            width: 110px;
+            height: 110px;
+            background-color: #fff;
+            border: 4px solid #ff69b4;
+            border-radius: 50%;
+            position: absolute;
+            top: -60px; /* Moves it to sit on the top edge */
+            left: 50%;
+            transform: translateX(-50%);
+            overflow: hidden;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        .profile-pic img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        h2 { 
+            color: #800080; 
+            margin-top: 45px; /* Space for the photo */
+            margin-bottom: 20px; 
+            font-size: 1.3rem;
+        }
+
         input[type="date"] {
             padding: 10px;
             border-radius: 8px;
@@ -57,6 +87,10 @@
 <body>
 
 <div class="container">
+    <div class="profile-pic">
+        <img src="my_heart.jpeg" alt="Jane Christine Fabiola">
+    </div>
+
     <h2>What is my new favorite date now my love? 😍</h2>
     <input type="date" id="date_picker">
     <br>
@@ -71,7 +105,7 @@ def check_date(event):
     date_val = document.querySelector("#date_picker").value
     result_div = document.querySelector("#result")
     
-    # Matching your original logic: 2026-02-01
+    # Keeping your original Python logic
     if date_val == "2026-02-01":
         result_div.innerText = "💖 You found my favorite date! 💖\n\nOh my love 😍\nYou guessed it! This date makes my heart flutter ❤️\nEvery moment with you feels like magic ✨\nI love you Jane Christine Fabiola!!! 💕"
     else:

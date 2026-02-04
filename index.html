@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Love Jane Christine Fabiola</title>
-    <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css">
-    <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
     <style>
         body {
             background-color: #ffe6f0;
@@ -91,26 +89,14 @@
         <img src="my_heart.jpeg" alt="Jane Christine Fabiola">
     </div>
 
-    <h2>What is my new favorite date now my love? 😍</h2>
+    <h2>My Day Event Tracker 😍</h2>
     <input type="date" id="date_picker">
     <br>
-    <button py-click="check_date">Please press me! 😍</button>
+    <button id="buttonPress">Please press me! 😍</button>
     <div id="result"></div>
 </div>
 
-<script type="py">
-from pyscript import display, document
-
-def check_date(event):
-    date_val = document.querySelector("#date_picker").value
-    result_div = document.querySelector("#result")
-    
-    # Keeping your original Python logic
-    if date_val == "2026-02-01":
-        result_div.innerText = "💖 You found my favorite date! 💖\n\nOh my love 😍\nYou guessed it! This date makes my heart flutter ❤️\nEvery moment with you feels like magic ✨\nI love you Jane Christine Fabiola!!! 💕"
-    else:
-        result_div.innerText = "Nope! Better luck next time my dear please try again! 😘🍕"
-</script>
+<script src="./scripts.js" defer></script>
 
 </body>
 </html>

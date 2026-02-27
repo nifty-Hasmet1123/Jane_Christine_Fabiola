@@ -31,6 +31,7 @@ function dateEvents() {
         "2026-02-14": "💖 My love today you booked a ticket to go here in the Philippines by February 23-25, 2026.\nYehey our first meeting will be in this date! I love you! 😘",
         "2026-02-15": "💖 Our first sex on video call my love\nI love you my dear 😍",
         "2026-02-24": "💖 Our first meeting my love\nWe really enjoyed our time together 😍",
-        "2026-02-25": "💖 Second day of our meeting my love\nReally a blast!\nJust wanna spend the rest of my life with you 😘"
+        "2026-02-25": "💖 Second day of our meeting my love\nReally a blast!\nJust wanna spend the rest of my life with you 😘",
+        "2026-02-27": "💖 This was the first time you did delivered something to me love using Grab\nI didn't expect this at all 🤣\nThank you my love!\nI love you! 😘"
     }
 }

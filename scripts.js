@@ -36,6 +36,7 @@ function dateEvents() {
         "2026-02-28": "💖 My love you went bowling with your team/company. And you also received a certificate award for being the least complain Customer Support\nHoooray!!! 😘",
         "2026-03-03": "💖 We celebrate my regularazation day my love. Also during this day\nYou were very sweet! Like really sweet morning till the next day\nCrazy Inlove!!!! 😘",
         "2026-03-04": "💖 First time my love called me while she was at work HEHEHE 😍\nWhen I kissed the phone, she even puckered her lips too 🥰\nBut she quickly looked around to check if anyone saw her hahaha 😂",
-        "2026-03-17": "💖 First time you express your feeling in Bahasa my love.\nCongrats to you 😂"
+        "2026-03-17": "💖 First time you express your feeling in Bahasa my love.\nCongrats to you 😂",
+        "2026-03-20": "💖 My love we did something crazy! You went to get your visa extension and then\nWe have naughty video call on the public restroom!!!\nCRAZY!!!😂"
     }
 }

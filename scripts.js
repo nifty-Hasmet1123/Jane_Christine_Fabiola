@@ -39,6 +39,7 @@ function dateEvents() {
         "2026-03-17": "💖 First time you express your feeling in Bahasa my love.\nCongrats to you 😂",
         "2026-03-20": "💖 My love we did something crazy! You went to get your visa extension and then\nWe have naughty video call on the public restroom!!!\nCRAZY!!!😂",
         "2026-03-30": "💖 First time we had the sexting while you on duty and calling someone\nCrazy! And we love it! 🤩",
-        "2026-04-05": "💖 We play our first game together `hay day` my love 🥰"
+        "2026-04-05": "💖 We play our first game together `hay day` my love 🥰",
+        "2026-04-21": "💖 Our first movie together. Title 'Forrest Gump'"
     }
 }

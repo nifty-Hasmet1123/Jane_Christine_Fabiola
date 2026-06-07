@@ -43,6 +43,8 @@ function dateEvents() {
         "2026-04-21": "💖 Our first movie together. Title 'Forrest Gump'",
         "2026-04-25": "💖 First day my baby transferred to her condo 🥰",
         "2026-04-27": "💖 My baby is mad because of me and decided to give in to her craving\nBy eating at Mcdonald's and\nate french fries, burger and Icecream! 🤯",
-        "2026-05-24": "💖 My baby had 9th rounds on me. And I release 3 times in one day. My first time 🤩"
+        "2026-05-24": "💖 My baby had 9th rounds on me. And I release 3 times in one day. My first time 🤩",
+        "2026-06-07": "💖 My baby got her Xioami Redmi Note 15 Pro and was really because\nThere is no more lines 🤣",
+        "2026-06-08": "💖 We had the official(based on ourselves) contract of our forever love\nto each other 🥰\nOur relationship just keep getting better ever single day.\nShe cannot go anywhere now 😍"
     }
 }

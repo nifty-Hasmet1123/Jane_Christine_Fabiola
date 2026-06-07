@@ -1,102 +1,99 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Love Jane Christine Fabiola</title>
-    <style>
-        body {
-            background-color: #ffe6f0;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        .container {
-            background: white;
-            padding: 2rem;
-            border-radius: 15px;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-            text-align: center;
-            max-width: 400px;
-            width: 90%;
-            border: 2px solid #ff69b4;
-            position: relative; /* Required for the circular photo positioning */
-            margin-top: 50px;
-        }
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>My Love Jane Christine Fabiola</title>
+	<style>
+		body {
+			background-color: #ffe6f0;
+			font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+			margin: 0;
+		}
+		.container {
+			background: white;
+			padding: 2rem;
+			border-radius: 15px;
+			box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+			text-align: center;
+			max-width: 400px;
+			width: 90%;
+			border: 2px solid #ff69b4;
+			position: relative; /* Required for the circular photo positioning */
+			margin-top: 50px;
+		}
 
-        /* Circular Photo Styles */
-        .profile-pic {
-            width: 110px;
-            height: 110px;
-            background-color: #fff;
-            border: 4px solid #ff69b4;
-            border-radius: 50%;
-            position: absolute;
-            top: -60px; /* Moves it to sit on the top edge */
-            left: 50%;
-            transform: translateX(-50%);
-            overflow: hidden;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-        }
+		/* Circular Photo Styles */
+		.profile-pic {
+			width: 110px;
+			height: 110px;
+			background-color: #fff;
+			border: 4px solid #ff69b4;
+			border-radius: 50%;
+			position: absolute;
+			top: -60px; /* Moves it to sit on the top edge */
+			left: 50%;
+			transform: translateX(-50%);
+			overflow: hidden;
+			box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+		}
 
-        .profile-pic img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
+		.profile-pic img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+		}
 
-        h2 { 
-            color: #800080; 
-            margin-top: 45px; /* Space for the photo */
-            margin-bottom: 20px; 
-            font-size: 1.3rem;
-        }
+		h2 { 
+			color: #800080; 
+			margin-top: 45px; /* Space for the photo */
+			margin-bottom: 20px; 
+			font-size: 1.3rem;
+		}
 
-        input[type="date"] {
-            padding: 10px;
-            border-radius: 8px;
-            border: 1px solid #800080;
-            margin-bottom: 20px;
-            width: 80%;
-            font-size: 16px;
-        }
-        button {
-            background-color: #ff69b4;
-            color: white;
-            border: none;
-            padding: 12px 24px;
-            border-radius: 8px;
-            font-weight: bold;
-            cursor: pointer;
-            transition: background 0.3s;
-        }
-        button:hover { background-color: #ff85c1; }
-        #result {
-            margin-top: 20px;
-            white-space: pre-wrap;
-            font-weight: bold;
-            color: #c71585;
-        }
-    </style>
+		input[type="date"] {
+			padding: 10px;
+			border-radius: 8px;
+			border: 1px solid #800080;
+			margin-bottom: 20px;
+			width: 80%;
+			font-size: 16px;
+		}
+		button {
+			background-color: #ff69b4;
+			color: white;
+			border: none;
+			padding: 12px 24px;
+			border-radius: 8px;
+			font-weight: bold;
+			cursor: pointer;
+			transition: background 0.3s;
+		}
+		button:hover { background-color: #ff85c1; }
+		#result {
+			margin-top: 20px;
+			white-space: pre-wrap;
+			font-weight: bold;
+			color: #c71585;
+		}
+	</style>
 </head>
 <body>
+	<div class="container">
+		<div class="profile-pic">
+			<img src="my_heart.jpeg" alt="Jane Christine Fabiola">
+		</div>
 
-<div class="container">
-    <div class="profile-pic">
-        <img src="my_heart.jpeg" alt="Jane Christine Fabiola">
-    </div>
-
-    <h2>My Day Event Tracker 😍</h2>
-    <input type="date" id="date_picker">
-    <br>
-    <button id="buttonPress">Please press me! 😍</button>
-    <div id="result"></div>
-</div>
-
-<script src="./scripts.js" defer></script>
-
+		<h2>My Day Event Tracker 😍</h2>
+		<input type="date" id="date_picker">
+		<br>
+		<button id="buttonPress">Please press me! 😍</button>
+		<div id="result"></div>
+	</div>
+	<script src="./scripts.js" defer></script>
 </body>
 </html>

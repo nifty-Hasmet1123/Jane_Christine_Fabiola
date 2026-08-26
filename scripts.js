@@ -46,6 +46,7 @@ function dateEvents() {
         "2026-05-24": "💖 My baby had 9th rounds on me. And I release 3 times in one day. My first time 🤩",
         "2026-06-07": "💖 My baby got her Xioami Redmi Note 15 Pro and was really because\nThere is no more lines 🤣",
         "2026-06-08": "💖 We had the official(based on ourselves) contract of our forever love\nto each other 🥰\nOur relationship just keep getting better ever single day.\nShe cannot go anywhere now 😍",
-        "2026-06-20": "💖 My baby returned back to Indonesia to have good time with her family\n I am so happy for you my love please enjoy! 🥰"
+        "2026-06-20": "💖 My baby returned back to Indonesia to have good time with her family\n I am so happy for you my love please enjoy! 🥰",
+        "2026-08-12": "💖 We went to Ancient City. Your my driver.\nThank you baby 🥰"
     }
 }

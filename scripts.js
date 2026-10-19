@@ -48,6 +48,7 @@ function dateEvents() {
         "2026-06-08": "💖 We had the official(based on ourselves) contract of our forever love\nto each other 🥰\nOur relationship just keep getting better ever single day.\nShe cannot go anywhere now 😍",
         "2026-06-20": "💖 My baby returned back to Indonesia to have good time with her family\n I am so happy for you my love please enjoy! 🥰",
         "2026-08-12": "💖 We went to Ancient City. Your my driver.\nThank you baby 🥰",
-        "2026-08-18": "💖 My Baby went to Planting Program by Agoda.\nMy baby talked positive things with Sam\nAnd went to Nelly place.\nReally productive day 😊"
+        "2026-08-18": "💖 My Baby went to Planting Program by Agoda.\nMy baby talked positive things with Sam\nAnd went to Nelly place.\nReally productive day 😊",
+        "2026-10-04": "💖 My Baby went here for her two(2) weeks works! Yay 🥰"
     }
 }

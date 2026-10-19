@@ -14,7 +14,7 @@ function btnLogic(resultDiv) {
         if (events[dateValue.value]) {
             resultDiv.innerText = events[dateValue.value]
         } else {
-            resultDiv.innerText = "💖 You didn't have plans for this day my dear 😊💖"
+            resultDiv.innerText = "💖 You didn't have plans for this day my love 😊💖"
         }
     })
 }

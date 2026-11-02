@@ -80,6 +80,9 @@
 			font-weight: bold;
 			color: #c71585;
 		}
+		#date-ctn>input {
+			cursor: pointer;
+		}
 	</style>
 </head>
 <body>
@@ -89,7 +92,9 @@
 		</div>
 
 		<h2>My Day Event Tracker 😍</h2>
-		<input type="date" id="date_picker">
+		<div id="date-ctn">
+			<input type="date" id="date_picker">
+		</div>
 		<br>
 		<button id="buttonPress">Please press me! 😍</button>
 		<div id="result"></div>

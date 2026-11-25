@@ -51,6 +51,7 @@ function dateEvents() {
         "2026-08-18": "💖 My Baby went to Planting Program by Agoda.\nMy baby talked positive things with Sam\nAnd went to Nelly place.\nReally productive day 😊",
         "2026-10-04": "💖 My Baby went here for her two(2) weeks works! Yay 🥰",
         "2026-10-24": "💖 First talk with my baby's parents. 🥰 Sudden interview with his Dad 🤯",
-        "2026-11-02": "💖 My baby had her haircut for the first time again\nafter 10 decades. 🙂"
+        "2026-11-02": "💖 My baby had her haircut for the first time again\nafter 10 decades. 🙂",
+        "2026-11-21": "💖 My baby was visited by her parents and she was really happy 🥰.\nI wish I am was there too baby to make you 1000x more happy 😊"
     }
 }
